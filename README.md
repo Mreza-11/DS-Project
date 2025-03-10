@@ -45,8 +45,9 @@ If you have insights, new papers, or additional experiments, feel free to contri
 
 📌 **Author**: Mohammadreza Baghernezhad  
 📅 **Course**: Distributed Systems  
-🏫 **Institution**: [Your University Name]  
-📧 **Contact**: [Your Email]
+🏫 **Institution**: Tarbiat Modares University
+📧 **Contact**: mrezabmiri17@gmail.com
 
 Happy Learning! 🚀
+
 
