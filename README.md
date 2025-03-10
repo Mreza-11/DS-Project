@@ -9,12 +9,9 @@ DS Project/
 │-- 📄 README.md               # Project documentation (this file)
 │-- 📄 report.pdf              # Final report summarizing the review
 │-- 📂 papers/                 # Collection of research papers on Federated Learning
-│   │-- paper1.pdf             # Paper 1
-│   │-- paper2.pdf             # Paper 2
+│   │-- A Tutorial on Federated Learning from Theory to Practice Foundations, Software Frameworks, Exemplar.pdf             # Paper 1
+│   │-- Vertical federated learning a structured literature review.pdf             # Paper 2
 │   │-- ...                    # More papers
-│-- 📂 notes/                  # Summarized notes on reviewed papers
-│   │-- paper1_notes.md        # Notes on Paper 1
-│   │-- paper2_notes.md        # Notes on Paper 2
 │-- 📂 slides/                 # Presentation slides (if applicable)
 │   │-- federated_learning.pptx
 │-- 📂 code/                   # Code snippets (if applicable)
