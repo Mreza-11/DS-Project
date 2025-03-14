@@ -20,6 +20,12 @@ DS Project/
 │   │-- books.md               # Recommended books/articles
 ```
 
+## 🛤️ Project Roadmap
+Below is the roadmap outlining the key steps in this review project.
+
+![Federated Learning Roadmap](assets/roadmap.png)
+
+
 ## 📝 Contents
 - **Introduction to Federated Learning**: Definition, motivation, and key concepts.
 - **Architecture**: Centralized vs. decentralized approaches, aggregation methods.
