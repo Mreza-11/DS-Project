@@ -41,9 +41,11 @@ Below is the roadmap outlining the key steps in this review project.
 4. **View Presentation (if applicable)**: Slides available in the `slides/` folder.
 5. **Run Experiments (if applicable)**: Code implementations, if any, are in the `code/` directory.
 
-## 🏆 Contributions
-If you have insights, new papers, or additional experiments, feel free to contribute by updating notes, adding summaries, or providing new references.
+🖥 Framework Spotlight – OpenFL
 
+Open Federated Learning (OpenFL) is an open-source framework designed to facilitate privacy-preserving, distributed machine learning across multiple institutions or edge devices. Developed with a modular and secure architecture, OpenFL supports a variety of aggregation algorithms, heterogeneous environments, and integration with deep learning libraries such as TensorFlow and PyTorch.
+
+📄 Presentation: [View OpenFL Presentation]([url](https://drive.google.com/file/d/1pVvf1XzWsacxoIPfPHZhHQw63AfftFlT/view?usp=sharing)) (Google Drive link)
 ---
 
 📌 **Author**: Mohammadreza Baghernezhad  
